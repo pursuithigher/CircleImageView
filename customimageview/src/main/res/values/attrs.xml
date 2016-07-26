@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="cornerdrawable" format="reference"/>
+    <attr name="cornersize" format="dimension"/>
+    <attr name="circlecolor" format="color"/>
+    <declare-styleable name="CornerImage">
+        <attr name="cornerdrawable"/>
+        <attr name="cornersize"/>
+        <attr name="circlecolor"/>
+    </declare-styleable>
+</resources>

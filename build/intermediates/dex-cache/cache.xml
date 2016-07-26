@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/qzzhu/CornerImageview/app/build/intermediates/exploded-aar/CornerImageview/customimageview/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="19958e7130dc6af4562c9a128462574cded802d0">
+        <dex dex="/home/qzzhu/CornerImageview/app/build/intermediates/pre-dexed/debug/CornerImageview-customimageview-unspecified_d75fd730c2bf8433fca0185283783616b966a152.jar" />
+    </item>
+    <item
+        jar="/home/qzzhu/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/qzzhu/workspace/CornerImageview/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_813c1f79dcd37900a6e33f40748cb00bcd9f833b.jar" />
+    </item>
+    <item
+        jar="/home/qzzhu/CornerImageview/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/qzzhu/CornerImageview/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_6161aec638a19b056a78ea9ef1d318b7a71eb4e1.jar" />
+    </item>
+    <item
+        jar="/home/qzzhu/workspace/CornerImageview/app/build/intermediates/exploded-aar/CornerImageview/customimageview/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b66b122368618b76b2aaae17b59b46d9b750a401">
+        <dex dex="/home/qzzhu/workspace/CornerImageview/app/build/intermediates/pre-dexed/debug/CornerImageview-customimageview-unspecified_a65928391949f7cbe03f9fd8b522d126b9f810e5.jar" />
+    </item>
+    <item
+        jar="/home/qzzhu/CornerImageview/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/qzzhu/CornerImageview/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_16811058524ca9f4a6eb48d8c3130a89e30e9b9e.jar" />
+    </item>
+    <item
+        jar="/home/qzzhu/workspace/CornerImageview/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/qzzhu/workspace/CornerImageview/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_a2e542356110e9a95c5a73f5ca30510189a0a200.jar" />
+    </item>
+    <item
+        jar="/home/qzzhu/workspace/CornerImageview/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/qzzhu/workspace/CornerImageview/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_479dde95a9dc5a517102e509e1fa9ebdab44fbf4.jar" />
+    </item>
+
+</items>
