@@ -8,9 +8,12 @@
     <com.example.customimageview.CornerImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        custom:cornerdrawable="@drawable/ic_launcher"
-        custom:cornersize="4dp"
-        custom:circlecolor="#00ff00"
         android:layout_centerInParent="true"
+
+        custom:cornerdrawable="@drawable/icon_large"
+        custom:cornersize="2dp"
+        custom:circlecolor="#00ff00"
+        custom:circlefactor="1"
+        custom:hascirclic="true"
         />
 </RelativeLayout>

@@ -3,9 +3,13 @@
     <attr name="cornerdrawable" format="reference"/>
     <attr name="cornersize" format="dimension"/>
     <attr name="circlecolor" format="color"/>
+    <attr name="circlefactor" format="float"/>
+    <attr name="hascirclic" format="boolean"/>
     <declare-styleable name="CornerImage">
         <attr name="cornerdrawable"/>
         <attr name="cornersize"/>
         <attr name="circlecolor"/>
+        <attr name="circlefactor"/>
+        <attr name="hascirclic"/>
     </declare-styleable>
 </resources>
