@@ -14,19 +14,27 @@ a Circle ImageView which is extends ImageView and change its drawable in some pl
  <com.example.customimageview.CornerImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        custom:cornerdrawable="@drawable/ic_launcher"
-        custom:cornersize="4dp"
-        custom:circlecolor="#00ff00"
         android:layout_centerInParent="true"
+
+        custom:cornerdrawable="@drawable/icon_large"
+        custom:cornersize="2dp"
+        custom:circlecolor="#00ff00"
+        custom:circlefactor="1"
+        custom:hascirclic="true"
         />
 <br/>
 1)custom:cornerdrawable: 需要裁剪的图片<br/>
 2)custom:cornersize: 圆环的大小,default:5px<br/>
 3)custom:circlecolor: 圆环的颜色,default:Blue<br/>
+4)custom:circlefactor: 圆角比例，范围在1(圆形)~(圆角)~1.414(方形)<br/>
+5)custom:hascirclic: 是否有圆环，这个属性只有在circlefactor = 1(默认)才有用<br/>
 
 ##Public function:
 setCircleColor(int );<br/>
-setCirclicSize(int );
+setCirclicSize(int );<br/>
+setCircleFactor(float );<br/>
+
+apply():当你调用玩以上set*方法必须调用，否则无效</br>
 
 ##Others:
 see the fucking code
